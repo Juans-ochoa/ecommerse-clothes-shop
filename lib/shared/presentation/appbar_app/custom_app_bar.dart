@@ -33,7 +33,7 @@ class CustomAppBar extends StatelessWidget {
                 ),
                 // SizedBox(height: 20),
                 Text(
-                  'Albert Stevano',
+                  'Liza Mill',
                   style: TextStyle(
                     color: Color(0xFF121111),
                     fontSize: 16,
